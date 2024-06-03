@@ -1,0 +1,4 @@
+chat\client\Client.class
+chat\client\Client$1.class
+chat\server\Server$ClientHandler.class
+chat\server\Server.class
